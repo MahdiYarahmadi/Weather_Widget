@@ -14,3 +14,9 @@ This is a simple weather application that provides real-time weather updates for
 - Display of weather condition, temperature (in Celsius), and humidity.
 - Supports any city available in the OpenWeatherMap API.
 - Comes with 3 different widget sizes: "big", "medium", and "small".
+
+## Usage 
+
+1. Sign up on OpenWeatherMap to get an API key.
+2. Insert your API key in the `main.py` script in the API_key variable inside the "update()" function.
+3. Run the main.py script to start the application.
